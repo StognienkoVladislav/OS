@@ -1,0 +1,4 @@
+﻿  lab_1_sleeping_barber.cpp
+e:\vsproject\os-labs-master\lab_1_sleeping_barber.cpp(56): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Sleeping_barber.vcxproj -> E:\VSProject\Sleeping_barber\Debug\Sleeping_barber.exe
+  Sleeping_barber.vcxproj -> E:\VSProject\Sleeping_barber\Debug\Sleeping_barber.pdb (Full PDB)
